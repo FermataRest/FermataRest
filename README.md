@@ -4,54 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer)](https://git.io/typing-svg)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FermataRest&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FermataRest&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FermataRest&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FermataRest&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FermataRest&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 👀 Profile Metrics
-
-![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/FermataRest?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/FermataRest/FermataRest/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 😂 Random Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
 ## 🌐 Connect With Me
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -121,4 +73,44 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FermataRest&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FermataRest&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👀 Profile Metrics
+
+![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/FermataRest?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/FermataRest/FermataRest/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💬 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 😂 Random Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
 
