@@ -96,12 +96,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/FermataRest/FermataRest/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
