@@ -74,6 +74,12 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
 ![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon)
 
+## 👀 Profile Metrics
+
+![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=FermataRest&theme=tokyonight)
 
 ---
@@ -83,24 +89,3 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FermataRest&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-## 👀 Profile Metrics
-
-![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
-
----
-
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 😂 Random Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
