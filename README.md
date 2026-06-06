@@ -24,7 +24,6 @@
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge)
@@ -106,7 +105,6 @@
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
 ![Bazzite](https://img.shields.io/badge/Bazzite-000000?style=for-the-badge)
 
-
 ---
 
 ## 🧪 Dev Tools / IDEs
@@ -122,11 +120,9 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine)
-
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio)
-
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita)
@@ -139,7 +135,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
@@ -155,12 +150,10 @@
 ![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge)
 ![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge)
-
 ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge)
-
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge)
@@ -178,6 +171,9 @@
 ![RetroArch](https://img.shields.io/badge/RetroArch-000000?style=for-the-badge)
 ![Ryujinx](https://img.shields.io/badge/Ryujinx-DC143C?style=for-the-badge)
 ![Dolphin](https://img.shields.io/badge/Dolphin_Emulator-0078D7?style=for-the-badge)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)
 
 ---
 
@@ -185,13 +181,11 @@
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions)
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
@@ -325,13 +319,11 @@
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions)
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
@@ -355,7 +347,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge)
@@ -363,7 +354,6 @@
 ![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge)
-
 ![OpenWebUI](https://img.shields.io/badge/Open_WebUI-000000?style=for-the-badge)
 ![SearXNG](https://img.shields.io/badge/SearXNG-3050FF?style=for-the-badge)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-121212?style=for-the-badge)
@@ -385,9 +375,7 @@
 ## 👀 Profile Metrics
 
 ![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
-
 ![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=FermataRest&theme=tokyonight)
 
 ---
