@@ -376,6 +376,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
 ![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=FermataRest&theme=tokyonight)
 
 ---
