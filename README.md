@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 FermataRest
 
 ## ✨ Typing Header
 
