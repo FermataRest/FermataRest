@@ -90,8 +90,6 @@
 
 ![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
 
-![](https://img.shields.io/github/stars/FermataRest?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-
 ---
 
 ## 💬 Random Dev Quote
