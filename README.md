@@ -1,3 +1,6 @@
+<!-- ========================================== -->
+<!-- 1. TYPING SVG BANNERS                      -->
+<!-- ========================================== -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D29922&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer)
 ![Engineering](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=58A6FF&width=750&lines=Hugging+Face+Maintainer;Software+Architect;Distributed+Systems+Nerd;Microservices+Monk;Serverless+Samurai;Event-Driven+Thinker;Domain-Driven+Designer;System+Optimizer;Refactoring+Addict;Legacy+Code+Whisperer;Design+Pattern+Purist;Clean+Code+Practitioner;Technical+Debt+Collector;OOP+Evangelist;Functional+Programming+Fanatic;SOLID+Principles+Follower;UML+Diagram+Artist;Monolith+Deconstructor;Scalability+Architect;High-Availability+Hacker;Fault-Tolerance+Engineer;Data+Pipeline+Builder;E2E+System+Designer;API-First+Advocate;Event+Sourcing+Specialist;CQRS+Architect;Enterprise+Integration+Expert;Modular+Monolith+Maintainer;Boundary+Context+Definer;Tradeoff+Evaluator;Performance+Tuner;Zero-Downtime+Deployer)
 ![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=3FB950&width=750&lines=Rust+Enjoyer;TypeScript+Devotee;Go+Gopher;Pythonista;C%2B%2B+Memory+Manager;Zig+Pioneer;Elixir+Alchemist;Haskell+Monad+Mapper;Java+Virtual+Machine+Master;C%23+Craftsman;WebAssembly+Fanatic;AST+Parser+Manipulator;LLVM+Bytecode+Wrangler;Garbage+Collection+Evader;Pointer+Arithmetic+Surfer;Macro+Metaprogrammer;Static+Typing+Purist;Dynamic+Dispatch+Optimizer;JIT+Compiler+Tuner;Typing+System+Abuser;Generic+Type+Juggler;Lisp+Parenthesis+Counter;Lua+Scripting+Speedster;Scala+Pattern+Matcher;Swift+Protocol+Designer)
@@ -7,6 +10,9 @@
 ![Backend](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=1F6FEB&width=750&lines=Backend+Engine+Builder;API+Designer;Database+Wrangler;GraphQL+Guru;REST+Purist;gRPC+Transport+Expert;SQL+Tuning+Wizard;NoSQL+Navigator;Cache+Invalidator;Redis+In-Memory+Master;PostgreSQL+Query+Planner;ACID+Transaction+Guardian;Deadlock+Resolver;Connection+Pool+Tuner;Websocket+Streamer;Event+Broker+Operator;Kafka+Topic+Partitioning;Data+Migration+Ninja;Index+Optimization+Specialist;B-Tree+Traversal+Expert)
 ![Security](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=DA3633&width=750&lines=SecOps+Guardian;OAuth+Decoder;JWT+Juggler;Penetration+Tester;Zero-Day+Mitigator;Cross-Site+Scripting+Blocker;SQL+Injection+Defender;Cryptographic+Hash+Validator;Public+Key+Infrastructure+Manager;TLS%2FSSL+Certificate+Authority;Security+Audit+Survivor;Identity+Access+Manager;CSRF+Token+Protector;Reverse+Engineering+Apprentice;Malware+Behavior+Analyst)
 ![Culture](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=D29922&width=750&lines=Turning+Coffee+Into+Code;Vim+Exit+Expert;DNS+Blamer;Null+Pointer+Survivor;Memory+Leak+Detective;Regex+Whisperer;Agile+Survivor;Merge+Conflict+Mediator;Semicolon+Slayer;Stack+Overflow+Archivist;Git+Commit+Composer;Bugs+To+Features+Converter;Dark+Mode+Purist;Keyboard-Only+User;Mechanical+Keyboard+Snob;It+Works+On+My+Machine;PR+Approved+Without+Reading;LGTM+Commenter;Rubber+Duck+Consultant;Git+Push+Force+Advocate;Production+Deployer+On+Fridays;Code+Review+Nitpicker)
+<!-- ========================================== -->
+<!-- 2. TECH STACK BADGES                      -->
+<!-- ========================================== -->
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -225,8 +231,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
@@ -245,6 +249,9 @@
 ![Cemu](https://img.shields.io/badge/Cemu-00599C?style=for-the-badge)
 ![RPCS3](https://img.shields.io/badge/RPCS3-FC6C00?style=for-the-badge)
 ![Ship of Harkinian](https://img.shields.io/badge/Ship_of_Harkinian-6C4AFF?style=for-the-badge)
+<!-- ========================================== -->
+<!-- 3. PROFILE ANALYTICS & STATS               -->
+<!-- ========================================== -->
 ![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
 ![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FermataRest&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
