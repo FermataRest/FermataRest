@@ -344,12 +344,6 @@
 ![UptimeRobot](https://img.shields.io/badge/UptimeRobot-3BD470?style=for-the-badge&logo=uptimerobot&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
-Alright, let's turn the dial up to eleven. Here are 100 more unique badges across foundational languages, web protocols, data engineering, cloud, security, OS, micro-frameworks, and dev tools—cross-checked line-by-line against your existing collection to ensure zero duplicates.
-Markdown
-
-<!-- ========================================== -->
-<!-- 6. ULTIMATE EXPANDED TECH STACK BADGES      -->
-<!-- ========================================== -->
 ![Fortran 90](https://img.shields.io/badge/Fortran_90-734F96?style=for-the-badge)
 ![Cobol 85](https://img.shields.io/badge/COBOL_85-005CA5?style=for-the-badge)
 ![Erlang](https://img.shields.io/badge/Erlang-A30000?style=for-the-badge&logo=erlang&logoColor=white)
