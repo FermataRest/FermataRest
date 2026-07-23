@@ -245,10 +245,6 @@
 ![Cemu](https://img.shields.io/badge/Cemu-00599C?style=for-the-badge)
 ![RPCS3](https://img.shields.io/badge/RPCS3-FC6C00?style=for-the-badge)
 ![Ship of Harkinian](https://img.shields.io/badge/Ship_of_Harkinian-6C4AFF?style=for-the-badge)
-
-## 📈 Activity Graph
 ![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
 ![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FermataRest&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
