@@ -11,7 +11,6 @@
 ![Security](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=DA3633&width=750&lines=SecOps+Guardian;OAuth+Decoder;JWT+Juggler;Penetration+Tester;Zero-Day+Mitigator;Cross-Site+Scripting+Blocker;SQL+Injection+Defender;Cryptographic+Hash+Validator;Public+Key+Infrastructure+Manager;TLS%2FSSL+Certificate+Authority;Security+Audit+Survivor;Identity+Access+Manager;CSRF+Token+Protector;Reverse+Engineering+Apprentice;Malware+Behavior+Analyst)
 ![Culture](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=D29922&width=750&lines=Turning+Coffee+Into+Code;Vim+Exit+Expert;DNS+Blamer;Null+Pointer+Survivor;Memory+Leak+Detective;Regex+Whisperer;Agile+Survivor;Merge+Conflict+Mediator;Semicolon+Slayer;Stack+Overflow+Archivist;Git+Commit+Composer;Bugs+To+Features+Converter;Dark+Mode+Purist;Keyboard-Only+User;Mechanical+Keyboard+Snob;It+Works+On+My+Machine;PR+Approved+Without+Reading;LGTM+Commenter;Rubber+Duck+Consultant;Git+Push+Force+Advocate;Production+Deployer+On+Fridays;Code+Review+Nitpicker)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=80&section=header" width="125%"/>
-
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                      -->
 <!-- ========================================== -->
