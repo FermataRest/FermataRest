@@ -12,8 +12,6 @@
 ![Culture](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=D29922&width=750&lines=Turning+Coffee+Into+Code;Vim+Exit+Expert;DNS+Blamer;Null+Pointer+Survivor;Memory+Leak+Detective;Regex+Whisperer;Agile+Survivor;Merge+Conflict+Mediator;Semicolon+Slayer;Stack+Overflow+Archivist;Git+Commit+Composer;Bugs+To+Features+Converter;Dark+Mode+Purist;Keyboard-Only+User;Mechanical+Keyboard+Snob;It+Works+On+My+Machine;PR+Approved+Without+Reading;LGTM+Commenter;Rubber+Duck+Consultant;Git+Push+Force+Advocate;Production+Deployer+On+Fridays;Code+Review+Nitpicker)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="300%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=80&section=header"/>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=&fontSize=90" width="100%"/>
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                      -->
 <!-- ========================================== -->
