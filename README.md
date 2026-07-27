@@ -1,9 +1,5 @@
 <div align="center">
-  <!-- Main Title -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=220&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&stroke=000000&strokeWidth=6" width="100%" />
-  
-  <!-- Subtitle with the same thick stroke -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=008F13&height=60&text=Full%20Stack%20Developer%20%7C%20Data%20Analyst&fontSize=30&fontColor=FFFFFF&stroke=000000&strokeWidth=4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=62&fontColor=FFFFFF&stroke=000000&strokeWidth=6" width="100%" />
 </div>
 
 <!-- Leave a blank line above and below -->
