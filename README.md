@@ -50,6 +50,7 @@
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                       -->
 <!-- ========================================== -->
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
