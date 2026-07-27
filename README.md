@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Penetration%20Tester&descAlignY=55&descAlign=62&fontColor=FFFFFF&stroke=000000&strokeWidth=6" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A2A,100:0066FF&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Penetration%20Tester&descAlignY=55&descAlign=62&fontColor=FFFFFF&stroke=000000&strokeWidth=6" width="100%" />
 </div>
 
 <!-- ========================================== -->
