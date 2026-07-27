@@ -1,12 +1,14 @@
-
 <!-- ========================================== -->
-<!--      Header with Dynamic Wave              --> 
+<!--       Header with Dynamic Wave             --> 
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=220&section=header&text=FermataRest&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff&strokeColor=000000&strokeWidth=2" width="100%" /> /div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=220&section=header&text=FermataRest&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff&strokeColor=000000&strokeWidth=2" width="100%" />
+</div>
+
 <!-- ========================================== -->
-<!--       Dynamic Typing SVGs                  --> 
+<!--        Dynamic Typing SVGs                 --> 
 <!-- ========================================== -->
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D29922&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer" alt="Typing SVG" />
   </a>
@@ -43,6 +45,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=D29922&center=true&vCenter=true&width=750&lines=Turning+Coffee+Into+Code;Vim+Exit+Expert;DNS+Blamer;Null+Pointer+Survivor;Memory+Leak+Detective;Regex+Whisperer;Agile+Survivor;Merge+Conflict+Mediator;Semicolon+Slayer;Stack+Overflow+Archivist;Git+Commit+Composer;Bugs+To+Features+Converter;Dark+Mode+Purist;Keyboard-Only+User;Mechanical+Keyboard+Snob;It+Works+On+My+Machine;PR+Approved+Without+Reading;LGTM+Commenter;Rubber+Duck+Consultant;Git+Push+Force+Advocate;Production+Deployer+On+Fridays;Code+Review+Nitpicker" alt="Culture" />
   </a>
 </div>
+
+<br />
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                       -->
 <!-- ========================================== -->
