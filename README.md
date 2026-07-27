@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Ethical%20Hacker&descAlignY=55&descAlign=62&fontColor=FFFFFF&stroke=000000&strokeWidth=6" width="100%" />
 </div>
 
-<!-- Leave a blank line above and below -->
+<!-- ========================================== -->
+<!-- Leave a blank line above and below         -->
+<!-- ========================================== -->
 
 <!-- ========================================== -->
 <!-- 1. TYPING SVG BANNERS                      -->
@@ -27,7 +29,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=D29922&center=true&vCenter=true&width=750&lines=Turning+Coffee+Into+Code;Vim+Exit+Expert;DNS+Blamer;Null+Pointer+Survivor;Memory+Leak+Detective;Regex+Whisperer;Agile+Survivor;Merge+Conflict+Mediator;Semicolon+Slayer;Stack+Overflow+Archivist;Git+Commit+Composer;Bugs+To+Features+Converter;Dark+Mode+Purist;Keyboard-Only+User;Mechanical+Keyboard+Snob;It+Works+On+My+Machine;PR+Approved+Without+Reading;LGTM+Commenter;Rubber+Duck+Consultant;Git+Push+Force+Advocate;Production+Deployer+On+Fridays;Code+Review+Nitpicker" alt="Culture" />
 </div>
 
+<!-- ========================================== -->
 <!-- Leave the two blank lines above            -->
+<!-- ========================================== -->
 
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                       -->
