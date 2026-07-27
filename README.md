@@ -3,7 +3,7 @@
 <!--      Header with Dynamic Wave              --> 
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=220&section=header&text=FermataRest&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff&strokeColor=000000&strokeWidth=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=220&section=header&text=FermataRest&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff&strokeColor=000000&strokeWidth=2" width="100%" /> /div>
 <!-- ========================================== -->
 <!--       Dynamic Typing SVGs                  --> 
 <!-- ========================================== -->
