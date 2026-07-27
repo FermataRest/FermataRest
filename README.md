@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=62&strokeColor=ffffff&strokeWidth=2&shadowColor=000000" width="100%" />
+</div>
+
+<!-- Leave a blank line above and below -->
+
 <!-- ========================================== -->
 <!-- 1. TYPING SVG BANNERS                      -->
 <!-- ========================================== -->
