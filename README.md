@@ -1,4 +1,10 @@
 <!-- ========================================== -->
+<!-- 0. HEADER WITH DYNAMIC WAVE -->
+<!-- ========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=62" width="100%" />
+</div>
+<!-- ========================================== -->
 <!-- 1. TYPING SVG BANNERS                      -->
 <!-- ========================================== -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D29922&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer)
