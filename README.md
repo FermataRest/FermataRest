@@ -1,6 +1,46 @@
 <!-- HEADER WITH DYNAMIC WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=62&strokeColor=ffffff&strokeWidth=2&shadowColor=000000" width="100%" />
+  <!-- Top Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008F13&height=220&section=header&text=FermataRest&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff&strokeColor=000000&strokeWidth=2" width="100%" />
+
+  <br />
+
+  <!-- Dynamic Typing SVGs -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D29922&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer" alt="Typing SVG" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hugging+Face+Maintainer;Software+Architect;Distributed+Systems+Nerd;Microservices+Monk;Serverless+Samurai;Event-Driven+Thinker;Domain-Driven+Designer;System+Optimizer;Refactoring+Addict;Legacy+Code+Whisperer;Design+Pattern+Purist;Clean+Code+Practitioner;Technical+Debt+Collector;OOP+Evangelist;Functional+Programming+Fanatic;SOLID+Principles+Follower;UML+Diagram+Artist;Monolith+Deconstructor;Scalability+Architect;High-Availability+Hacker;Fault-Tolerance+Engineer;Data+Pipeline+Builder;E2E+System+Designer;API-First+Advocate;Event+Sourcing+Specialist;CQRS+Architect;Enterprise+Integration+Expert;Modular+Monolith+Maintainer;Boundary+Context+Definer;Tradeoff+Evaluator;Performance+Tuner;Zero-Downtime+Deployer" alt="Engineering" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=3FB950&center=true&vCenter=true&width=750&lines=Rust+Enjoyer;TypeScript+Devotee;Go+Gopher;Pythonista;C%2B%2B+Memory+Manager;Zig+Pioneer;Elixir+Alchemist;Haskell+Monad+Mapper;Java+Virtual+Machine+Master;C%23+Craftsman;WebAssembly+Fanatic;AST+Parser+Manipulator;LLVM+Bytecode+Wrangler;Garbage+Collection+Evader;Pointer+Arithmetic+Surfer;Macro+Metaprogrammer;Static+Typing+Purist;Dynamic+Dispatch+Optimizer;JIT+Compiler+Tuner;Typing+System+Abuser;Generic+Type+Juggler;Lisp+Parenthesis+Counter;Lua+Scripting+Speedster;Scala+Pattern+Matcher;Swift+Protocol+Designer" alt="Languages" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=A371F7&center=true&vCenter=true&width=750&lines=Docker+Whale+Rider;Kubernetes+Pilot;Cloud+Native+Architect;Terraform+Tamer;Ansible+Automator;CI%2FCD+Pipeline+Pioneer;Infrastructure+as+Code+Author;Prometheus+Observer;Grafana+Artist;Chaos+Engineer;Site+Reliability+Engineer;AWS+Cloud+Surfer;GCP+Navigator;Azure+Deployment+Ace;Helm+Chart+Navigator;Ingress+Controller+Wrangler;Service+Mesh+Mechanic;Istio+Operator;Helm+Release+Manager;Serverless+Stack+Deployer;Log+Aggregation+Specialist;Elasticsearch+Indexer;Kibana+Dashboard+Designer;Zero-Trust+Architect" alt="DevOps" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=F0883E&center=true&vCenter=true&width=750&lines=Linux+Enthusiast;Kernel+Hacker;Terminal+Dweller;Neovim+Purist;Arch+Linux+User+BTW;Gentoo+Compiler;Emacs+Lisp+Occultist;Bash+Scripter;Zsh+Customizer;Dotfiles+Hoarder;Valgrind+Memory+Inspector;Systemd+Wrangler;Posix+Compliance+Purist;GDB+Session+Master;Syscall+Tracer;Interrupt+Handler;Assembly+Instruction+Whisperer;Memory+Page+Mapper;Direct+Memory+Access+Driver;Custom+Kernel+Builder;Wayland+Compositor;TMUX+Session+Multiplexer" alt="Linux & Low-Level" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=F692CE&center=true&vCenter=true&width=750&lines=Frontend+Wizard;CSS+Flexbox+Master;Centering+Divs+Professionally;Tailwind+Utility+Purist;Component+Architect;State+Management+Guru;Virtual+DOM+Tuner;Accessibility+A11y+Advocate;Responsive+Design+Refiner;Single+Page+App+Sculptor;Canvas+2D%2F3D+Artist;WebGL+Shader+Coder;Design+System+Maintainer;Micro-Frontend+Integrator;Bundle+Size+Reducer;Tree-Shaking+Optimizer;Pixel-Perfect+Obsessive;UI+Animation+Stylist" alt="Frontend" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=1F6FEB&center=true&vCenter=true&width=750&lines=Backend+Engine+Builder;API+Designer;Database+Wrangler;GraphQL+Guru;REST+Purist;gRPC+Transport+Expert;SQL+Tuning+Wizard;NoSQL+Navigator;Cache+Invalidator;Redis+In-Memory+Master;PostgreSQL+Query+Planner;ACID+Transaction+Guardian;Deadlock+Resolver;Connection+Pool+Tuner;Websocket+Streamer;Event+Broker+Operator;Kafka+Topic+Partitioning;Data+Migration+Ninja;Index+Optimization+Specialist;B-Tree+Traversal+Expert" alt="Backend" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=DA3633&center=true&vCenter=true&width=750&lines=SecOps+Guardian;OAuth+Decoder;JWT+Juggler;Penetration+Tester;Zero-Day+Mitigator;Cross-Site+Scripting+Blocker;SQL+Injection+Defender;Cryptographic+Hash+Validator;Public+Key+Infrastructure+Manager;TLS%2FSSL+Certificate+Authority;Security+Audit+Survivor;Identity+Access+Manager;CSRF+Token+Protector;Reverse+Engineering+Apprentice;Malware+Behavior+Analyst" alt="Security" />
+  </a>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=D29922&center=true&vCenter=true&width=750&lines=Turning+Coffee+Into+Code;Vim+Exit+Expert;DNS+Blamer;Null+Pointer+Survivor;Memory+Leak+Detective;Regex+Whisperer;Agile+Survivor;Merge+Conflict+Mediator;Semicolon+Slayer;Stack+Overflow+Archivist;Git+Commit+Composer;Bugs+To+Features+Converter;Dark+Mode+Purist;Keyboard-Only+User;Mechanical+Keyboard+Snob;It+Works+On+My+Machine;PR+Approved+Without+Reading;LGTM+Commenter;Rubber+Duck+Consultant;Git+Push+Force+Advocate;Production+Deployer+On+Fridays;Code+Review+Nitpicker" alt="Culture" />
+  </a>
 </div>
 
 <!-- ========================================== -->
