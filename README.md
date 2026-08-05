@@ -42,6 +42,18 @@
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-DIGITAL%20FOUNDRY-ea2e49?style=for-the-badge" alt="As seen on Digital Foundry">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-ANDROID%20AUTHORITY-ea2e49?style=for-the-badge" alt="As seen on Android Authority">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-XDA%20DEVELOPERS-ea2e49?style=for-the-badge" alt="As seen on XDA Developers">
+![CISSP Certified](https://img.shields.io/badge/ISC2_CISSP-00A88F?style=for-the-badge)
+![OSCP Certified](https://img.shields.io/badge/OffSec_OSCP-111111?style=for-the-badge)
+![CEH Certified](https://img.shields.io/badge/EC--Council_CEH-C8102E?style=for-the-badge)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-C00000?style=for-the-badge)
+![CISM Certified](https://img.shields.io/badge/ISACA_CISM-0052CC?style=for-the-badge)
+![GIAC GSEC](https://img.shields.io/badge/GIAC_GSEC-003366?style=for-the-badge)
+![SOC2 Type II](https://img.shields.io/badge/Compliance_SOC_2_Type_II-00A88F?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/Compliance_ISO_27001-003366?style=for-the-badge)
+![HIPAA Compliant](https://img.shields.io/badge/Compliance_HIPAA-0052CC?style=for-the-badge)
+![GDPR Compliant](https://img.shields.io/badge/Compliance_GDPR-002D62?style=for-the-badge)
+![PCI DSS v4.0](https://img.shields.io/badge/Compliance_PCI_DSS-000000?style=for-the-badge)
+![NIST SP 800-53](https://img.shields.io/badge/Framework_NIST_800--53-111111?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -1565,18 +1577,6 @@
 ![Apache Druid](https://img.shields.io/badge/Apache_Druid_Realtime-00A4E4?style=for-the-badge)
 ![Apache Pinot](https://img.shields.io/badge/Apache_Pinot_Analytics-D22128?style=for-the-badge)
 ![Polars DataFrames](https://img.shields.io/badge/Polars_DataFrames-CDD839?style=for-the-badge&logoColor=black)
-![CISSP Certified](https://img.shields.io/badge/ISC2_CISSP-00A88F?style=for-the-badge)
-![OSCP Certified](https://img.shields.io/badge/OffSec_OSCP-111111?style=for-the-badge)
-![CEH Certified](https://img.shields.io/badge/EC--Council_CEH-C8102E?style=for-the-badge)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-C00000?style=for-the-badge)
-![CISM Certified](https://img.shields.io/badge/ISACA_CISM-0052CC?style=for-the-badge)
-![GIAC GSEC](https://img.shields.io/badge/GIAC_GSEC-003366?style=for-the-badge)
-![SOC2 Type II](https://img.shields.io/badge/Compliance_SOC_2_Type_II-00A88F?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/Compliance_ISO_27001-003366?style=for-the-badge)
-![HIPAA Compliant](https://img.shields.io/badge/Compliance_HIPAA-0052CC?style=for-the-badge)
-![GDPR Compliant](https://img.shields.io/badge/Compliance_GDPR-002D62?style=for-the-badge)
-![PCI DSS v4.0](https://img.shields.io/badge/Compliance_PCI_DSS-000000?style=for-the-badge)
-![NIST SP 800-53](https://img.shields.io/badge/Framework_NIST_800--53-111111?style=for-the-badge)
 <!-- ========================================== -->
 <!-- 3. PROFILE ANALYTICS & STATS               -->
 <!-- ========================================== -->
