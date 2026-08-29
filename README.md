@@ -9,8 +9,6 @@
 <!-- ========================================== -->
 <!-- 1. TYPING SVG BANNERS                      -->
 <!-- ========================================== -->
-![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
-![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D29922&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer" alt="Typing SVG" />
   <br />
@@ -39,6 +37,8 @@
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                       -->
 <!-- ========================================== -->
+![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
+![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-POLYGON-ea2e49?style=for-the-badge" alt="As seen on Polygon"> </a> 
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-KOTAKU-ea2e49?style=for-the-badge" alt="As seen on KOTAKU">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-DIGITAL%20FOUNDRY-ea2e49?style=for-the-badge" alt="As seen on Digital Foundry">
