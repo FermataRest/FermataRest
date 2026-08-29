@@ -9,6 +9,8 @@
 <!-- ========================================== -->
 <!-- 1. TYPING SVG BANNERS                      -->
 <!-- ========================================== -->
+![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
+![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D29922&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer" alt="Typing SVG" />
   <br />
@@ -1577,9 +1579,3 @@
 ![Apache Druid](https://img.shields.io/badge/Apache_Druid_Realtime-00A4E4?style=for-the-badge)
 ![Apache Pinot](https://img.shields.io/badge/Apache_Pinot_Analytics-D22128?style=for-the-badge)
 ![Polars DataFrames](https://img.shields.io/badge/Polars_DataFrames-CDD839?style=for-the-badge&logoColor=black)
-<!-- ========================================== -->
-<!-- 3. PROFILE ANALYTICS & STATS                -->
-<!-- ========================================== -->
-![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
-![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
-[![FermataRest's GitHub stats](https://github-readme-stats.vercel.app/api?username=FermataRest&show_icons=true&theme=tokyo-night)](https://github.com/anuraghazra/github-readme-stats)
