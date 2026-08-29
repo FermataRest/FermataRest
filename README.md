@@ -1577,15 +1577,9 @@
 ![Apache Druid](https://img.shields.io/badge/Apache_Druid_Realtime-00A4E4?style=for-the-badge)
 ![Apache Pinot](https://img.shields.io/badge/Apache_Pinot_Analytics-D22128?style=for-the-badge)
 ![Polars DataFrames](https://img.shields.io/badge/Polars_DataFrames-CDD839?style=for-the-badge&logoColor=black)
-
-
 <!-- ========================================== -->
-<!-- 3. PROFILE ANALYTICS & STATS               -->
+<!-- 3. PROFILE ANALYTICS & STATS                -->
 <!-- ========================================== -->
-
-
 ![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
 ![](https://img.shields.io/github/followers/FermataRest?style=for-the-badge)
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FermataRest&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![FermataRest's GitHub stats](https://github-readme-stats.vercel.app/api?username=FermataRest&show_icons=true&theme=tokyo-night)](https://github.com/anuraghazra/github-readme-stats)
