@@ -6,6 +6,11 @@
   <img src="https://scribesvg.vercel.app/api/render?lines=Full+Stack+Developer;Open+Source+Contributor;Hugging+Face+Maintainer;Rust+Enjoyer;Cloud+Native+Architect;Linux+Enthusiast;Frontend+Wizard;Backend+Engine+Builder;Penetration+Tester;Turning+Coffee+Into+Code&amp;font=Tahoma&amp;size=30&amp;width=750&amp;height=55&amp;speed=65&amp;deleteSpeed=30&amp;pause=800&amp;center=true&amp;vCenter=true&amp;gradient=FF0000,FFFFFF,0000FF&amp;gradientAngle=0&amp;attribution=false" alt="Animated developer roles and interests in a red, white, and blue gradient" align="bottom" />
 </div>
 
+<div align="center">
+  <a href="https://gitlab.com/FermataRest">
+    <img src="https://img.shields.io/badge/GitLab-FermataRest-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Visit FermataRest on GitLab" />
+  </a>
+</div>
 
 <!-- ========================================== -->
 <!-- Leave the two blank lines above            -->
@@ -36,6 +41,11 @@
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-DIGITAL%20FOUNDRY-ea2e49?style=flat" alt="As seen on Digital Foundry">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-ANDROID%20AUTHORITY-ea2e49?style=flat" alt="As seen on Android Authority">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-XDA%20DEVELOPERS-ea2e49?style=flat" alt="As seen on XDA Developers">
+<details>
+<summary>🧰 <strong>Full Tech Stack &amp; Tools</strong> <sub>click to expand the full collection</sub></summary>
+
+<br />
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
@@ -405,6 +415,10 @@
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F36C3D?style=flat&logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C1D95?style=flat&logo=snyk&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=homebrew&logoColor=black)
+
+</details>
+
+---
 
 <div align="center">
   <picture>
