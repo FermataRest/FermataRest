@@ -405,3 +405,11 @@
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F36C3D?style=flat&logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C1D95?style=flat&logo=snyk&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=homebrew&logoColor=black)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FermataRest/FermataRest/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FermataRest/FermataRest/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/FermataRest/FermataRest/output/github-snake.svg" alt="FermataRest GitHub contribution snake" width="100%" />
+  </picture>
+</div>
