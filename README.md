@@ -12,6 +12,15 @@
 
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                       -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FermataRest&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://git-stats-animation-production.up.railway.app/languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://git-stats-animation-production.up.railway.app/languages-light.svg">
+    <img alt="Activity" src="https://git-stats-animation-production.up.railway.app/languages.svg">
+  </picture>
+</div>
+
 <!-- ========================================== -->
 ![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
 ![](https://img.shields.io/github/followers/FermataRest?style=flat)
@@ -1555,12 +1564,3 @@
 ![Apache Druid](https://img.shields.io/badge/Apache_Druid_Realtime-00A4E4?style=flat)
 ![Apache Pinot](https://img.shields.io/badge/Apache_Pinot_Analytics-D22128?style=flat)
 ![Polars DataFrames](https://img.shields.io/badge/Polars_DataFrames-CDD839?style=flat&logoColor=black)
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FermataRest&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git-stats-animation-production.up.railway.app/languages-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://git-stats-animation-production.up.railway.app/languages-light.svg">
-    <img alt="Activity" src="https://git-stats-animation-production.up.railway.app/languages.svg">
-  </picture>
-</div>
