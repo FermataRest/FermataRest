@@ -1,14 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A2A,100:0066FF&height=280&section=header&text=FermataRest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Penetration%20Tester%20%7C%20Linux%20Maintainer&descAlignY=55&descAlign=62&fontColor=E6E8FA&stroke=000000&strokeWidth=6" width="100%" />
 </div>
-
-<!-- ========================================== -->
-<!-- Leave a blank line above and below         -->
-<!-- ========================================== -->
-
-<!-- ========================================== -->
-<!-- 1. TYPING SVG BANNERS                      -->
-<!-- ========================================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D29922&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Open+Source+Contributor;Linux+Enthusiast;Rust+Enjoyer" alt="Typing SVG" />
   <br />
@@ -44,7 +36,6 @@
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-DIGITAL%20FOUNDRY-ea2e49?style=for-the-badge" alt="As seen on Digital Foundry">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-ANDROID%20AUTHORITY-ea2e49?style=for-the-badge" alt="As seen on Android Authority">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-XDA%20DEVELOPERS-ea2e49?style=for-the-badge" alt="As seen on XDA Developers">
-
 ![CISSP Certified](https://img.shields.io/badge/ISC2_CISSP-00A88F?style=for-the-badge)
 ![OSCP Certified](https://img.shields.io/badge/OffSec_OSCP-111111?style=for-the-badge)
 ![CEH Certified](https://img.shields.io/badge/EC--Council_CEH-C8102E?style=for-the-badge)
