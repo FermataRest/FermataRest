@@ -35,8 +35,8 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=FermataRest&style=flat)
-![](https://img.shields.io/github/followers/FermataRest?style=flat)
+![](https://komarev.com/ghpvc/?username=FermataRest&style=flat&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/FermataRest?style=flat&label=FOLLOWERS)
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-POLYGON-ea2e49?style=flat" alt="As seen on Polygon"> </a> 
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-KOTAKU-ea2e49?style=flat" alt="As seen on KOTAKU">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-DIGITAL%20FOUNDRY-ea2e49?style=flat" alt="As seen on Digital Foundry">
