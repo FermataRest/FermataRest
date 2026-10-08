@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9B1C31,50:000000,100:064E9B&amp;height=280&amp;section=header&amp;text=FermataRest&amp;fontSize=90&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Penetration%20Tester%20%7C%20Linux%20Maintainer&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=F0F6FC&amp;stroke=000000&amp;strokeWidth=6" alt="FermataRest banner with a red, black, and blue gradient and developer roles" width="100%" align="bottom" />
 </div>
 
----
-
 <div align="center">
   <img src="https://scribesvg.vercel.app/api/render?lines=Full+Stack+Developer;Open+Source+Contributor;Hugging+Face+Maintainer;Rust+Enjoyer;Cloud+Native+Architect;Linux+Enthusiast;Frontend+Wizard;Backend+Engine+Builder;Penetration+Tester;Turning+Coffee+Into+Code&amp;font=Tahoma&amp;size=30&amp;width=750&amp;height=55&amp;speed=65&amp;deleteSpeed=30&amp;pause=800&amp;center=true&amp;vCenter=true&amp;gradient=FF0000,FFFFFF,0000FF&amp;gradientAngle=0&amp;attribution=false" alt="Animated developer roles and interests in a red, white, and blue gradient" align="bottom" />
 </div>
@@ -15,6 +13,9 @@
 
 <!-- ========================================== -->
 <!-- 2. TECH STACK BADGES                       -->
+
+---
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FermataRest&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <picture>
