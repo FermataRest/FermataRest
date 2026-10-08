@@ -20,7 +20,7 @@
 </div>
 
 <!-- ========================================== -->
-![](https://komarev.com/ghpvc/?username=FermataRest&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=FermataRest&amp;style=flat" height="22" alt="Profile views" />
 ![](https://img.shields.io/github/followers/FermataRest?style=flat)
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-POLYGON-ea2e49?style=flat" alt="As seen on Polygon"> </a> 
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-KOTAKU-ea2e49?style=flat" alt="As seen on KOTAKU">
