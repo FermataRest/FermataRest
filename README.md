@@ -167,7 +167,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=black)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=black)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch)
+![Twitch](https://img.shields.io/badge/Twitch-24292F?style=flat&logo=twitch&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)
 ![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
