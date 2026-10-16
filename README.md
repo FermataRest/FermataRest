@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FermataRest&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=FermataRest&amp;locale=en&amp;mode=weekly&amp;theme=dark&amp;hide_border=false&amp;border_radius=5" height="150" alt="streak graph"  />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://git-stats-animation-production.up.railway.app/languages-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://git-stats-animation-production.up.railway.app/languages-light.svg">
@@ -37,7 +37,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FermataRest&style=flat&label=PROFILE+VIEWS)
 ![](https://img.shields.io/github/followers/FermataRest?style=flat&label=FOLLOWERS)
-<img src="https://img.shields.io/badge/AS%20SEEN%20ON-POLYGON-ea2e49?style=flat" alt="As seen on Polygon"> </a> 
+<img src="https://img.shields.io/badge/AS%20SEEN%20ON-POLYGON-ea2e49?style=flat" alt="As seen on Polygon"> 
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-KOTAKU-ea2e49?style=flat" alt="As seen on KOTAKU">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-DIGITAL%20FOUNDRY-ea2e49?style=flat" alt="As seen on Digital Foundry">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-ANDROID%20AUTHORITY-ea2e49?style=flat" alt="As seen on Android Authority">
@@ -103,10 +103,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat&logo=opensuse&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-007ACC.svg?logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender)
@@ -126,7 +126,7 @@
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
 ![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=flat&logo=nintendo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=flat&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress)
@@ -179,14 +179,14 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E.svg?logo=aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
@@ -273,7 +273,7 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-527FFF?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon Redshift](https://custom-icon-badges.demolab.com/badge/Amazon_Redshift-527FFF.svg?logo=aws&logoColor=white)
 ![HashiCorp Nomad](https://img.shields.io/badge/HashiCorp_Nomad-00CA8E?style=flat&logo=nomad&logoColor=white)
 ![HashiCorp Consul](https://img.shields.io/badge/HashiCorp_Consul-F24C4E?style=flat&logo=consul&logoColor=white)
 ![Linkerd](https://img.shields.io/badge/Linkerd-07A1C2?style=flat&logo=linkerd&logoColor=white)
@@ -330,11 +330,11 @@
 ![Realm](https://img.shields.io/badge/Realm-39457E?style=flat&logo=realm&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/CouchDB-E3001B?style=flat&logo=apachecouchdb&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE0E0?style=flat&logo=arangodb&logoColor=black)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Amazon DynamoDB](https://custom-icon-badges.demolab.com/badge/Amazon_DynamoDB-4053D6.svg?logo=aws&logoColor=white)
 ![Firebase Realtime Database](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS_Lambda-FF9900.svg?logo=aws&logoColor=white)
+![AWS S3](https://custom-icon-badges.demolab.com/badge/AWS_S3-569A31.svg?logo=aws&logoColor=white)
 ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
