@@ -35,7 +35,7 @@
   </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=FermataRest&style=flat&label=PROFILE+VIEWS&color=blue)
+![Profile views](https://hits.sh/github.com/FermataRest.svg?label=PROFILE+VIEWS&style=flat&color=blue&extraCount=2666)
 ![](https://img.shields.io/github/followers/FermataRest?style=flat&label=FOLLOWERS)
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-POLYGON-ea2e49?style=flat" alt="As seen on Polygon"> 
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-KOTAKU-ea2e49?style=flat" alt="As seen on KOTAKU">
