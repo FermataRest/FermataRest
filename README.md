@@ -35,8 +35,8 @@
   </a>
 </div>
 
-![Profile views](https://hits.sh/github.com/FermataRest.svg?label=PROFILE+VIEWS&style=flat&color=blue&extraCount=2666)
-![](https://img.shields.io/github/followers/FermataRest?style=flat&label=FOLLOWERS)
+![](https://komarev.com/ghpvc/?username=FermataRest&style=flat&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFermataRest&query=%24.followers&label=FOLLOWERS&style=flat)
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-POLYGON-ea2e49?style=flat" alt="As seen on Polygon"> 
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-KOTAKU-ea2e49?style=flat" alt="As seen on KOTAKU">
 <img src="https://img.shields.io/badge/AS%20SEEN%20ON-DIGITAL%20FOUNDRY-ea2e49?style=flat" alt="As seen on Digital Foundry">
