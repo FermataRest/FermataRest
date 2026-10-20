@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/AS%20SEEN%20ON-ANDROID%20AUTHORITY-ea2e49?style=flat&logo=android&logoColor=white" alt="As seen on Android Authority">
   <img src="https://img.shields.io/badge/AS%20SEEN%20ON-XDA%20DEVELOPERS-ea2e49?style=flat&logo=xdadevelopers&logoColor=white" alt="As seen on XDA Developers">
 </div>
+
+<div align="center">
 <details>
 <summary>🧰 <strong>Full Tech Stack &amp; Tools</strong> <sub>👈 Click to Expand</sub></summary>
 
@@ -420,6 +422,7 @@
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=homebrew&logoColor=black)
 
 </details>
+</div>
 
 ---
 
