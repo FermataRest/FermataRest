@@ -48,7 +48,7 @@
 
 <div align="center">
 <details>
-<summary>🧰 <picture><img src="https://kroki.io/vega/svg/eNrllV1vgjAUhv8KOVt2RZAPYcrd4scf0GQXmxcVKnRWSmhxbob_vhad68y2mBkjxt7Qnve8TftAeNdwy6MULxCEkAqR87DVWuIEWQkRaTm1CGtt9LraWvrWC2cZmPBKYpFC2PZtE1JMklTIRWBCjuKYZAmEso5KwTh5x3LvjGVYuhaomHMIn9Yg3nJVF3glZB1nEYvlei1nAhdqUivyuUS0VJ3DklJjjKPUGAkUzY07Y8wY5VCZsNL6HEcW3rSC15aFGcu-bfZQEERhK4zqI-5E99PwuL3Wl23KaKxcU8QxJZnuAkTzFE2xIFG9L6FUV2_seiiJ5SgiQj-ibTkdKXBRsDn-xbURHzfUNWdQyWGekKe9z9O7AJ5uY3l293G6F4Az8JuKs7OP024Ezn5vEAw1MH-KP1Dzf3sR14hzDUmBYoLVKUA5UQGKHcs3UcJmM45FnTgRo6xQjAdD1_N6oFjtZMvXGnaf7leDo8lO0PEHfagm1X-JP5eu07WNHiUSt2DGYJWjLN4H7naCY_PKub-KvDqUp39sXp2Dp9tcnu1jA-scPM8QWIfy9I79xZ6GZ-MS66J5nj-yJtUH5kh4qQ==" alt="Full Tech Stack &amp; Tools — Click to Expand" width="450" height="46" align="middle" /></picture></summary>
+<summary>💻 <picture><img src="https://kroki.io/vega/svg/eNrllV1vgjAUhv8KOVt2RZAPYY67xY8_oMkuNi8qVOislNDi3Az_fS06V81clhkjxt7Qnve8J-Uh4V3BLY9SPEcQQipEzsNWa4ETZCVEpOXEIqy11utqa-Fbr5xlYMIbiUUKYdu3TUgxSVIhD4EJOYpjkiUQyjoqBePkA8vZGcuwdM1RMeMQPq9AvOeqLvBSyDrOIhbL80ruBC7Uplbkc4FoqToHJaXGCEepMRQomhl3xogxyqEyYan1OY4svGsFry0LU5btDHssCKKwEYb1Fbei-2V42rzWt23CaKxcE8QxJZnuAkTzFE2wIFE9l1Cqqzd2vZTEchQRoV_RtpyOFLgo2AwfcK3FpzV1zRlUcpkn5Gnv8_QugKfbWJ4P-zjdC8AZ-E3F2dnHaTcCZ6_bDwYamF_FH6j5hz7ENeJcQVKgmGB1C1BOVIBix_J1lLDplGNRJ07EKCsU4_7A9bwuKFZb2fK1hkG9dhocTXaCjt_vQTWu_kv8pXSdB9voUiJxC2b0lznK4n3gbic4Nq-c-6vIq7_y9I_Nq3PwdJvLs31sYJ2D5xkC6688vWN_safh2bjEumie54-scfUJiLR5sQ==" alt="Full Tech Stack &amp; Tools — Click to Expand" width="450" height="46" align="middle" /></picture></summary>
 
 <br />
 
