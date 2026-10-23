@@ -48,7 +48,7 @@
 
 <div align="center">
 <details>
-<summary>🧰 <img src="https://kroki.io/vega/svg/eNrllV1vgjAUhv8KOVt2RZAPYcrd4scf0GQXmxcVKnRWSmhxbob_vhad68y2mBkjxt7Qnve8TftAeNdwy6MULxCEkAqR87DVWuIEWQkRaTm1CGtt9LraWvrWC2cZmPBKYpFC2PZtE1JMklTIRWBCjuKYZAmEso5KwTh5x3LvjGVYuhaomHMIn9Yg3nJVF3glZB1nEYvlei1nAhdqUivyuUS0VJ3DklJjjKPUGAkUzY07Y8wY5VCZsNL6HEcW3rSC15aFGcu-bfZQEERhK4zqI-5E99PwuL3Wl23KaKxcU8QxJZnuAkTzFE2xIFG9L6FUV2_seiiJ5SgiQj-ibTkdKXBRsDn-xbURHzfUNWdQyWGekKe9z9O7AJ5uY3l293G6F4Az8JuKs7OP024Ezn5vEAw1MH-KP1Dzf3sR14hzDUmBYoLVKUA5UQGKHcs3UcJmM45FnTgRo6xQjAdD1_N6oFjtZMvXGnaf7leDo8lO0PEHfagm1X-JP5eu07WNHiUSt2DGYJWjLN4H7naCY_PKub-KvDqUp39sXp2Dp9tcnu1jA-scPM8QWIfy9I79xZ6GZ-MS66J5nj-yJtUH5kh4qQ==" alt="Full Tech Stack &amp; Tools — Click to Expand" width="450" height="46" align="middle" /></summary>
+<summary>🧰 <strong>Full Tech Stack &amp; Tools</strong> <sub>👈 Click to Expand</sub></summary>
 
 <br />
 
