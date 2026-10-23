@@ -17,19 +17,6 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FermataRest&amp;locale=en&amp;mode=weekly&amp;theme=dark&amp;hide_border=false&amp;border_radius=5" height="150" alt="streak graph"  />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git-stats-animation-production.up.railway.app/languages-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://git-stats-animation-production.up.railway.app/languages-light.svg">
-    <img alt="Activity" src="https://git-stats-animation-production.up.railway.app/languages.svg">
-  </picture>
-</div>
-
-<!-- ========================================== -->
-
----
-
-<div align="center">
   <a href="https://gitlab.com/FermataRest">
     <img src="https://img.shields.io/badge/GitLab-FermataRest-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black" alt="Visit FermataRest on GitLab" />
   </a>
@@ -423,6 +410,19 @@
 
 </details>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FermataRest&amp;locale=en&amp;mode=weekly&amp;theme=dark&amp;hide_border=false&amp;border_radius=5" height="150" alt="streak graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://git-stats-animation-production.up.railway.app/languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://git-stats-animation-production.up.railway.app/languages-light.svg">
+    <img alt="Activity" src="https://git-stats-animation-production.up.railway.app/languages.svg">
+  </picture>
+</div>
+
+<!-- ========================================== -->
 
 ---
 
