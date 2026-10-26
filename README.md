@@ -38,8 +38,6 @@
 <summary>💻 <picture><img src="https://kroki.io/vega/svg/eNrllV1vgjAUhv8KOVt2RZAPYY67xY8_oMkuNi8qVOislNDi3Az_fS06V81clhkjxt7Qnve8J-Uh4V3BLY9SPEcQQipEzsNWa4ETZCVEpOXEIqy11utqa-Fbr5xlYMIbiUUKYdu3TUgxSVIhD4EJOYpjkiUQyjoqBePkA8vZGcuwdM1RMeMQPq9AvOeqLvBSyDrOIhbL80ruBC7Uplbkc4FoqToHJaXGCEepMRQomhl3xogxyqEyYan1OY4svGsFry0LU5btDHssCKKwEYb1Fbei-2V42rzWt23CaKxcE8QxJZnuAkTzFE2wIFE9l1Cqqzd2vZTEchQRoV_RtpyOFLgo2AwfcK3FpzV1zRlUcpkn5Gnv8_QugKfbWJ4P-zjdC8AZ-E3F2dnHaTcCZ6_bDwYamF_FH6j5hz7ENeJcQVKgmGB1C1BOVIBix_J1lLDplGNRJ07EKCsU4_7A9bwuKFZb2fK1hkG9dhocTXaCjt_vQTWu_kv8pXSdB9voUiJxC2b0lznK4n3gbic4Nq-c-6vIq7_y9I_Nq3PwdJvLs31sYJ2D5xkC6688vWN_safh2bjEumie54-scfUJiLR5sQ==" alt="Full Tech Stack &amp; Tools — Click to Expand" width="450" height="46" align="middle" /></picture></summary>
 
 <br />
-
-<h3>💻 Programming Languages:</h3>
 <p>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
@@ -49,21 +47,15 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=c,dart" width="90" alt="C and Dart" />
 </p>
-
-<h3>🌐 Frontend Development:</h3>
 <p>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="300" alt="HTML, CSS, Bootstrap, Tailwind CSS, and Redux" />
 </p>
-
-<h3>⚙️ Backend Development:</h3>
 <p>
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="400" alt="FastAPI, Flask, Node.js, Express, Spring, Kafka, and RabbitMQ" />
 </p>
-
-<h3>🤖 AI &amp; Machine Learning:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="224" alt="TensorFlow, scikit-learn, PyTorch, and Anaconda" />
   <img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
@@ -77,14 +69,10 @@
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 </p>
-
-<h3>🗄️ Databases:</h3>
 <p>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="400" alt="PostgreSQL, SQLite, MongoDB, Redis, DynamoDB, and Firebase" />
 </p>
-
-<h3>🔧 Tools &amp; Technologies:</h3>
 <p>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" alt="Git, VS Code, and Visual Studio" />
@@ -93,7 +81,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
   <img src="https://skillicons.dev/icons?i=figma,postman,linux&amp;theme=dark" width="150" alt="Figma, Postman, and Linux" />
 </p>
-
 <br />
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
