@@ -459,6 +459,15 @@
 ---
 
 <div align="center">
+  <h2>📈 Activity Graph</h2>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fermatarest&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=FF6B6B" alt="FermataRest's GitHub activity graph" width="100%" />
+  </a>
+</div>
+
+---
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FermataRest/FermataRest/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FermataRest/FermataRest/output/github-snake.svg" />
