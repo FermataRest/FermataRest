@@ -473,3 +473,13 @@
     <img src="https://raw.githubusercontent.com/FermataRest/FermataRest/output/github-snake.svg" alt="FermataRest GitHub contribution snake" width="100%" />
   </picture>
 </div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FermataRest/FermataRest/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FermataRest/FermataRest/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/FermataRest/FermataRest/output/pacman-contribution-graph.svg" alt="FermataRest Pac-Man contribution graph" width="100%" />
+  </picture>
+</div>
