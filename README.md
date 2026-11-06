@@ -68,7 +68,7 @@
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
   <img src="https://raw.githubusercontent.com/FermataRest/FermataRest/main/assets/tech-stack/canva.svg" width="50" alt="Canva" />
-  <img src="https://skillicons.dev/icons?i=figma,postman,linux&amp;theme=dark" width="150" alt="Figma, Postman, and Linux" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,linux,apple,windows&amp;theme=dark" width="250" alt="Figma, Postman, Linux, Apple, and Windows" />
 <br />
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
